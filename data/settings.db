@@ -1,0 +1,11 @@
+{"key":"pf2e.defaultTokenSettingsName","value":"\"20\"","_id":"7adkh95ccgD5rQly"}
+{"key":"pf2e.compendiumBrowserPacks","value":"\"{\\\"action\\\":{},\\\"bestiary\\\":{},\\\"equipment\\\":{},\\\"feat\\\":{},\\\"spell\\\":{}}\"","_id":"8tsmUiRXIxreOl2x"}
+{"key":"pf2e.identifyMagicNotMatchingTraditionModifier","value":"\"5\"","_id":"CJBVFmcWgZchF0Wn"}
+{"key":"pf2e.defaultTokenSettingsBar","value":"\"20\"","_id":"FdJxJIbdHrQ3clpQ"}
+{"key":"core.time","value":"0","_id":"J7l7uW584rbIvKaU"}
+{"_id":"MDc2ZjRiYWZhMGM5","key":"core.permissions","value":"{\"BROADCAST_AUDIO\":[2,3,4],\"BROADCAST_VIDEO\":[2,3,4],\"ACTOR_CREATE\":[3,4],\"DRAWING_CREATE\":[2,3,4],\"ITEM_CREATE\":[3,4],\"FILES_BROWSE\":[2,3,4],\"FILES_UPLOAD\":[3,4],\"JOURNAL_CREATE\":[2,3,4],\"MACRO_SCRIPT\":[1,2,3,4],\"MESSAGE_WHISPER\":[1,2,3,4],\"SETTINGS_MODIFY\":[3,4],\"SHOW_CURSOR\":[1,2,3,4],\"SHOW_RULER\":[1,2,3,4],\"TEMPLATE_CREATE\":[1,2,3,4],\"TOKEN_CREATE\":[3,4],\"TOKEN_CONFIGURE\":[2,3,4],\"WALL_DOORS\":[1,2,3,4]}"}
+{"_id":"OGJhNjJjMzUzNGMw","key":"dnd5e.systemMigrationVersion","value":"\"0.93\""}
+{"_id":"OTRjOTE1ZmRhMmE3","key":"permission_viewer.migrated","value":"\"1\""}
+{"key":"pf2e.worldSchemaVersion","value":"0.59","_id":"Q8j6AH7IzmdSPBCY"}
+{"_id":"ZWJlNjY5NDZlOTUy","key":"core.moduleConfiguration","value":"{\"furnace\":true,\"permission_viewer\":true}"}
+{"key":"pf2e.staminaVariant","value":"\"0\"","_id":"do1m5rCRKabL0pOR"}

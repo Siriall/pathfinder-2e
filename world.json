@@ -1,0 +1,37 @@
+{
+  "name": "pathfinder-2e",
+  "title": "Pathfinder 2e",
+  "description": "",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [
+    "templates/roll20-templates.js"
+  ],
+  "esmodules": [],
+  "styles": [
+    "templates/roll20-templates.css"
+  ],
+  "packs": [],
+  "languages": [],
+  "authors": [
+    "R20Converter"
+  ],
+  "keywords": [
+    "R20Converter"
+  ],
+  "socket": false,
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "",
+  "readme": "",
+  "bugs": "",
+  "changelog": "",
+  "id": "pathfinder-2e",
+  "system": "pf2e",
+  "coreVersion": "0.7.9",
+  "systemVersion": "1.10.25.2784",
+  "unavailable": false,
+  "availability": 0
+}
